@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\TechquizZero\\ProjectSoccerClub\\ProjectModels\\ProjectModels.csproj": {}
+    "C:\\Users\\T490\\Documents\\GitHub\\ProjectSoccerClubTechwiz\\ProjectModels\\ProjectModels.csproj": {}
   },
   "projects": {
-    "F:\\TechquizZero\\ProjectSoccerClub\\ProjectModels\\ProjectModels.csproj": {
+    "C:\\Users\\T490\\Documents\\GitHub\\ProjectSoccerClubTechwiz\\ProjectModels\\ProjectModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\TechquizZero\\ProjectSoccerClub\\ProjectModels\\ProjectModels.csproj",
+        "projectUniqueName": "C:\\Users\\T490\\Documents\\GitHub\\ProjectSoccerClubTechwiz\\ProjectModels\\ProjectModels.csproj",
         "projectName": "ProjectModels",
-        "projectPath": "F:\\TechquizZero\\ProjectSoccerClub\\ProjectModels\\ProjectModels.csproj",
+        "projectPath": "C:\\Users\\T490\\Documents\\GitHub\\ProjectSoccerClubTechwiz\\ProjectModels\\ProjectModels.csproj",
         "packagesPath": "C:\\Users\\T490\\.nuget\\packages\\",
-        "outputPath": "F:\\TechquizZero\\ProjectSoccerClub\\ProjectModels\\obj\\",
+        "outputPath": "C:\\Users\\T490\\Documents\\GitHub\\ProjectSoccerClubTechwiz\\ProjectModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\T490\\AppData\\Roaming\\NuGet\\NuGet.Config",
