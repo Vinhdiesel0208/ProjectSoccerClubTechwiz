@@ -1,0 +1,12 @@
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\bin\Debug\net7.0\ProjectModels.deps.json
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\bin\Debug\net7.0\ProjectModels.dll
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\bin\Debug\net7.0\ProjectModels.pdb
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\ProjectModels.csproj.AssemblyReference.cache
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\ProjectModels.GeneratedMSBuildEditorConfig.editorconfig
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\ProjectModels.AssemblyInfoInputs.cache
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\ProjectModels.AssemblyInfo.cs
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\ProjectModels.csproj.CoreCompileInputs.cache
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\ProjectModels.dll
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\refint\ProjectModels.dll
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\ProjectModels.pdb
+F:\TechquizZero\ProjectSoccerClub\ProjectModels\obj\Debug\net7.0\ref\ProjectModels.dll
